@@ -1,2 +1,4 @@
 # aar
-AAR: All Assistance Repository , a virtual assistant 
+AAR: , a virtual assistant developed by Team AAR . Abul Jaish Abhishek and Rishi.
+
+
